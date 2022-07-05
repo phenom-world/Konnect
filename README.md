@@ -3,12 +3,12 @@ A real time chat application built with Nodejs, Material UI and Socket.io
 
 
 ### Install dependencies for server 
- `npm install`
+ ```npm install```
 
 ### Install dependencies for client
  cd client ---> `npm install`
 
-## Connect to your mongodb and add info in .env
+### Connect to your mongodb and add info in .env
 
 ### Run the client & server with concurrently
  `npm run dev`
